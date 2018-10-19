@@ -2,4 +2,4 @@
 SQL query samples
 
 **Milestone**
-Query sample on log database of the VMS Milstone (these queries are tested on XProtect Corporate)
+Queries sample on the SQL Server log database (default name SurveillanceLogServer) of the VMS Milstone, these queries are tested on XProtect Corporate
